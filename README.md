@@ -1,13 +1,12 @@
 <div>
 <h1><img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png" width="30px"/> Hi! I'm Diego Krauspenhaar. </h1>
- <h2>Front-End Developer</h2>
+ <h2>Front-end Developer</h2>
  <img src="https://komarev.com/ghpvc/?username=Diegokraus&color=yellow" alt="Profile views" />
  </div>
  
  <br>
  
-<div> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diegokraus&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+<div>   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegokraus&layout=compact&langs_count=7&theme=react"/>
 </div>
 
@@ -21,10 +20,14 @@
  </div>
 
 <br>
+
  <div>
   <h2>📱 Contact</h2>
     <a href="https://www.linkedin.com/in/diego-krauspenhaar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
    <a href = "mailto:diegokraus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://instagram.com/diego.krauspenhaar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
+<br>
+<div>Email: <a href = "mailto:diegokraus@gmail.com">diegokraus@gmail.com</a></div>
+
 
