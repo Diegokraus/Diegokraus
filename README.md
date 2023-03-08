@@ -1,5 +1,5 @@
 <div>
-<h1><img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png" width="30px"/> Hi! I'm Diego Krauspenhaar. </h1>
+<h1>Hi! I'm Diego Krauspenhaar. </h1>
  <h2>Frontend Developer</h2>
  <img src="https://komarev.com/ghpvc/?username=Diegokraus&color=yellow" alt="Profile views" />
  </div>
