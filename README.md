@@ -1,6 +1,6 @@
 <div>
 <h1>Hi! I'm Diego Krauspenhaar. </h1>
- <h2>Frontend Developer</h2>
+ <h2>FullStack Developer</h2>
  <img src="https://komarev.com/ghpvc/?username=Diegokraus&color=yellow" alt="Profile views" />
  </div>
  
